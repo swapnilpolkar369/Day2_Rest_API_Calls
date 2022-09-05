@@ -2,7 +2,7 @@ package com.example.newhelloworld.controller.Entity;
 
 import org.springframework.stereotype.Component;
 
-
+@Component
 public class User {
     private String firstName;
     private String lastName;
